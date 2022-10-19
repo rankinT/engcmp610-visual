@@ -1,13 +1,19 @@
-# Dreams and You
+# Don't Let Your Dreams Be Dreams
 
 
 ## A Visual Argument 
-This is a visual argument targeted at musicians to not give up on their passions. I personally had a phase where I let myself use the 'not enough time' as a justification for not continuing to learn the guitar. Since I recently got back into it, I wanted to help convince others to not forget their passions as well.
+This is a visual argument targeted at musicians to not give up on their passions. I personally had a phase where I let myself use the 'not enough time' excuse for not continuing to learn the guitar. Since I recently got back into it, I wanted to help convince others to not forget their passions as well.
 
-I went with a non-serious style becuase I thought it would be the most approachable tone for my message. Just a light-hearted reminder. Shia LaBeouf had a very popular meme back in the day and the message was adjacent to mine, so it incorporated very nicely into my non-serious style.
+Shia LaBeouf had a very popular motivational meme back in the day and the message was adjacent to mine, so its context incorporated very nicely into my visual argument.
+
+<img src='visual-arg-full.png'>
+
+<br>
+
+--------------
+## Reflection
 
 
-<img src='visual-arg.png'>
 
 <br>
 
@@ -42,4 +48,9 @@ Photo by <a href="https://unsplash.com/@louishansel?utm_source=unsplash&utm_medi
 <img src='assets/sing.jpg' height='200'>
 
 Photo by <a href="https://unsplash.com/@arstyy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Neill</a> on <a href="https://unsplash.com/s/photos/music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  <br>
+  <img src='assets/ghost.jpg' height='200'>
+
+  Photo by <a href="https://unsplash.com/@luwadlinbosman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luwadlin Bosman</a> on <a href="https://unsplash.com/s/photos/guitar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
