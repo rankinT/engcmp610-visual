@@ -12,11 +12,23 @@ Shia LaBeouf had a very popular motivational meme back in the day and the messag
 
 --------------
 ## Project
+### Version 1
+<img src='visual-arg.png' height='200'>
+
+<br>
+
+### Working on Version 2
 <img src='gimp.png' height='400'>
 
 
 ## Reflection
-For my visual argument, I went with a celestial space them because the message made me think of ‘shooting for the stars’ and to follow with that I knew that I wanted to push a constellation font. I drew the font myself to give the natural irregularity of constellations and then chroma-shifted GIMP’s sparkle brush tool to make the foreground stars. To add emphasis to the font, I duplicated the font layer and blurred the back layer. In my first version, it felt like images were disconnected from the font and drew attention away from it, so to add Balance, I had them point towards the font with arrow-like parts.  To get Shia to hold the guitar, I auto-selected his arms and cut-paste them to a separate layer above the guitar layer. I also added a ghost guitar add depth and to further draw attention in the direction of the font. I also had issues with signal-to-noise ratio in the first version, so in I decided to have 3 dominant foreground objects, 1 middle ghost guitar object, and used the sunset and space images to anchor the background layers. Overall, I think my final version turned out to be a nicely complete piece with a clear message to not give up on your passions. Don’t let your dreams be dreams!
+For my visual argument, I went with a celestial space them because the message made me think of ‘shooting for the stars’ and to follow with that I knew that I wanted to use a constellation font. I drew the font myself to get the natural irregularity of star positions and then chroma-shifted GIMP’s sparkle brush tool to make the foreground blue stars. To add emphasis to the font, I duplicated the font layer and blurred the back layer. To get Shia to hold the guitar, I auto-selected his arms and pasted them to a separate layer above the guitar layer. 
+
+In my first version, it felt like images were disconnected from the font and drew attention away from it because the scale and color of the images conflicted with it, so to add Balance, I made the people smaller and point towards the font. And to add consistency and keep a calm non-serious tone, I made everything a blue-purple space color scheme. 
+
+I also added a ghost guitar add depth and subtley draw attention flow in the direction of the font, successfully establishing visual dominance of the quote "Don't let your dreams be dreams". 
+
+The images act as a visual metaphor with the person *reaching for the stars* and Shia LeBouf telling him (and the viewer) "Don't let your dreams be dreams". Overall, I think my final version turned out to be a nicely complete message with a clear message to not give up on your passions.
 
 
 <br>
