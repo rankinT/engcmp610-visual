@@ -2,9 +2,9 @@
 
 
 ## A Visual Argument 
-This is a visual argument targeted at musicians to not give up on their passions. I personally had a phase where I let myself use the 'not enough time' excuse for not continuing to learn the guitar. Since I recently got back into it, I wanted to help convince others to not forget their passions as well.
+This is a visual argument targeted at musicians to not give up on their passions. I personally had a phase where I let myself use the 'not enough time' excuse for not continuing to learn the guitar. Since I recently got back into it, I wanted to help convince others to not forget their passions as well. Shia LaBeouf had a very popular motivational meme back in the day and the message was adjacent to mine, so its context incorporated very nicely into my visual argument. 
 
-Shia LaBeouf had a very popular motivational meme back in the day and the message was adjacent to mine, so its context incorporated very nicely into my visual argument.
+With music being the inspiration for my message, I imagined this visual argument to be displayed as a non-serious and relatable album cover.
 
 <img src='visual-arg-full.png'>
 
