@@ -8,10 +8,9 @@ With music being the inspiration for my message, I imagined this visual argument
 
 <img src='visual-arg-full.png' height='350'>
 
---------------
-
 <br>
 
+--------------
 ## Project Versions
 ### Version 1
 <img src='visual-arg.png' height='270'>
@@ -35,10 +34,9 @@ I also added a ghost guitar add depth and subtley draw attention flow in the dir
 The images act as a visual metaphor with the person *reaching for the stars* and Shia LeBouf telling him (and the viewer) "Don't let your dreams be dreams". Overall, I think my final version turned out to be a nicely complete message with a clear message to not give up on your passions.
 
 
---------------
-
 <br>
 
+----------
 ## Credits
 <img src='assets/horizon.avif' height='200'>
 
