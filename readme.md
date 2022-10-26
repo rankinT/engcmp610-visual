@@ -4,22 +4,25 @@
 ## A Visual Argument 
 This is a visual argument targeted at musicians to not give up on their passions. I personally had a phase where I let myself use the 'not enough time' excuse for not continuing to learn the guitar. Since I recently got back into it, I wanted to help convince others to not forget their passions as well. Shia LaBeouf had a very popular motivational meme back in the day and the message was adjacent to mine, so its context incorporated very nicely into my visual argument. 
 
-With music being the inspiration for my message, I imagined this visual argument to be displayed as a non-serious and relatable album cover.
+With music being the inspiration for my message, I imagined this visual argument to be displayed like an album cover.
 
-<img src='visual-arg-full.png'>
+<img src='visual-arg-full.png' height='350'>
 
 <br>
 
 --------------
-## Project
+## Project Versions
 ### Version 1
-<img src='visual-arg.png' height='200'>
+<img src='visual-arg.png' height='270'>
+
+I originally played into a meme theme by making Shia LeBouf look ridiculous but also have a normal image of him in the background to subtly retain a familiarity with the original meme. I decided to create an alternative to this funny version because I wanted this album cover to be more presentable to the people who aren't informed about this old meme. But I still wanted to give this version recognition because it may be a more effective visual argument for an audience that does understand the meme.
 
 <br>
 
 ### Working on Version 2
 <img src='gimp.png' height='400'>
 
+<br>
 
 ## Reflection
 For my visual argument, I went with a celestial space them because the message made me think of ‘shooting for the stars’ and to follow with that I knew that I wanted to use a constellation font. I drew the font myself to get the natural irregularity of star positions and then chroma-shifted GIMP’s sparkle brush tool to make the foreground blue stars. To add emphasis to the font, I duplicated the font layer and blurred the back layer. To get Shia to hold the guitar, I auto-selected his arms and pasted them to a separate layer above the guitar layer. 
